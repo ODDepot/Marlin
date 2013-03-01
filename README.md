@@ -1,3 +1,7 @@
+About this Version
+==================
+This branch is meant to track the latest Marlin release but have Sanguinololu and Sanguinololu Wireless Adapter supported by default.
+
 WARNING: 
 --------
 THIS IS RELEASE CANDIDATE 2 FOR MARLIN 1.0.0
